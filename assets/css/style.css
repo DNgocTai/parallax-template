@@ -114,15 +114,15 @@ body {
 }
 
 .parallax-1 {
-   background-image: url(../images/parallax1.jpg);
+   background-image: url('../images/parallax1.jpg');
 }
 
 .parallax-2 {
-   background-image: url(../images/parallax2.jpg);
+   background-image: url('../images/parallax2.jpg');
 }
 
 .parallax-3 {
-   background-image: url(../images/parallax3.jpg);
+   background-image: url('../images/parallax3.jpg');
 }
 
 .parallax-box {
