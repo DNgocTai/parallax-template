@@ -108,9 +108,9 @@ body {
    background-size: cover;
    background-repeat: no-repeat;
    background-attachment: scroll;
-   min-height: 400px;
    opacity: 0.75;
    position: relative;
+   min-height: 400px;
 }
 
 .parallax-1 {
